@@ -5,16 +5,16 @@ const Footer = () => {
 				<p className='text-balance text-center text-sm leading-loose text-muted-foreground md:text-left'>
 					Built by{" "}
 					<a
-						href='https://github.com/your-username'
+						href='https://github.com/Navaneeth223'
 						target='_blank'
 						rel='noreferrer'
 						className='font-medium underline underline-offset-4'
 					>
-						you
+						Navaneeth
 					</a>
 					. The source code is available on{" "}
 					<a
-						href='https://github.com/your-username/netflix-clone'
+						href='https://github.com/Navaneeth223/Netflix-UI-Clone'
 						target='_blank'
 						rel='noreferrer'
 						className='font-medium underline underline-offset-4'

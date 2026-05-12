@@ -1,6 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -47,7 +46,8 @@ body {
 }
 .hero-bg {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)),
-		url("https://assets.nflxext.com/ffe/siteui/vlv3/f841d4c7-10e1-40af-bca1-07e3f8eb1468/a200b3e5-9c9e-4e4b-9d41-48e02d6b4121/US-en-20220502-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+		url("https://help.nflxext.com/43e0db2c-aec0-4edc-8110-5e59a6d357a8_what_is_netflix_1_en.png");
+
 	background-size: cover;
 	background-position: center;
 }
